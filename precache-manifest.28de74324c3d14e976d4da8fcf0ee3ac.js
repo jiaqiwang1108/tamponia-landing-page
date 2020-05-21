@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01ca2bafd8ca3fc1faa6358824258ce4",
+    "revision": "6e8fcccd9f86d23589e188bc1cbd23dc",
     "url": "/tamponia-landing-page/index.html"
   },
   {
-    "revision": "3cd352649f5319eba782",
+    "revision": "7c15e1efb61d668e5679",
     "url": "/tamponia-landing-page/static/css/main.db3a0ca4.chunk.css"
   },
   {
-    "revision": "6dc6d0791d442362b5b8",
-    "url": "/tamponia-landing-page/static/js/2.635cde41.chunk.js"
+    "revision": "b148f7ab314df57079b2",
+    "url": "/tamponia-landing-page/static/js/2.caa0a5eb.chunk.js"
   },
   {
-    "revision": "3cd352649f5319eba782",
-    "url": "/tamponia-landing-page/static/js/main.1753ff3c.chunk.js"
+    "revision": "7c15e1efb61d668e5679",
+    "url": "/tamponia-landing-page/static/js/main.fab88389.chunk.js"
   },
   {
     "revision": "d2448dd81c6c6d4166b3",
