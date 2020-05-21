@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "646029b242f103fbd8d618e39d39c6f4",
+    "revision": "1b628f5de5e0d96edcda12bfaf449f83",
     "url": "/tamponia-landing-page/index.html"
   },
   {
-    "revision": "071f9f3b05dadf41a738",
-    "url": "/tamponia-landing-page/static/css/main.db3a0ca4.chunk.css"
+    "revision": "bd671d1deeb882e5ff41",
+    "url": "/tamponia-landing-page/static/css/main.ac9f2eee.chunk.css"
   },
   {
-    "revision": "9eac78807ed8bbee7289",
-    "url": "/tamponia-landing-page/static/js/2.e552c6f9.chunk.js"
+    "revision": "d907655703fc9800f091",
+    "url": "/tamponia-landing-page/static/js/2.946e68a5.chunk.js"
   },
   {
-    "revision": "071f9f3b05dadf41a738",
-    "url": "/tamponia-landing-page/static/js/main.55d5ce91.chunk.js"
+    "revision": "bd671d1deeb882e5ff41",
+    "url": "/tamponia-landing-page/static/js/main.af1b4f25.chunk.js"
   },
   {
     "revision": "d2448dd81c6c6d4166b3",
     "url": "/tamponia-landing-page/static/js/runtime~main.10e51f51.js"
+  },
+  {
+    "revision": "bfc688ca490f0079051aea5b8ec75cbe",
+    "url": "/tamponia-landing-page/static/media/ayo-ogunseinde-2.bfc688ca.jpg"
   },
   {
     "revision": "2cb2f5556bf304ac7167e18d8c14701c",
@@ -32,16 +36,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tamponia-landing-page/static/media/brainstorm3.9d774249.png"
   },
   {
+    "revision": "bb4b9ac9fd07e48f86c719495b65341c",
+    "url": "/tamponia-landing-page/static/media/clem-onojeghuo-2.bb4b9ac9.jpg"
+  },
+  {
+    "revision": "ae11d928aae96245020bb59a1910f758",
+    "url": "/tamponia-landing-page/static/media/clem-onojeghuo-3.ae11d928.jpg"
+  },
+  {
+    "revision": "facbbdb787d77f975904ba9fa99b15c6",
+    "url": "/tamponia-landing-page/static/media/daniel-olahh.facbbdb7.jpg"
+  },
+  {
     "revision": "d2768a8216ca43fb6e8ff536dc7fe741",
     "url": "/tamponia-landing-page/static/media/elims.d2768a82.png"
+  },
+  {
+    "revision": "2051e0e847124c536df9c01a3f672032",
+    "url": "/tamponia-landing-page/static/media/erik-lucatero-2.2051e0e8.jpg"
+  },
+  {
+    "revision": "f26c34bb88eb83d5aae99c7dbf3ddd48",
+    "url": "/tamponia-landing-page/static/media/fabio-mangione.f26c34bb.jpg"
   },
   {
     "revision": "bba0c2b5711ccc7ca5059ae60aa82642",
     "url": "/tamponia-landing-page/static/media/hero-bg.bba0c2b5.png"
   },
   {
+    "revision": "76ff47ae5c64ccda5af18326bb272058",
+    "url": "/tamponia-landing-page/static/media/joe-gardner-2.76ff47ae.jpg"
+  },
+  {
     "revision": "0fbfeddae992162e204153ecfc32f331",
     "url": "/tamponia-landing-page/static/media/jq.0fbfedda.png"
+  },
+  {
+    "revision": "be9fa468a029a195601370492c15519d",
+    "url": "/tamponia-landing-page/static/media/login-image.be9fa468.jpg"
   },
   {
     "revision": "2abe9ec15445e8479e36691a2cb8c1f2",
