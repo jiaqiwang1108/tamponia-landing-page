@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tamponia-landing-page/precache-manifest.047bd0064bdb9dc8fd825df3ccf843be.js"
+  "/tamponia-landing-page/precache-manifest.71393cc510a9ac20315034c867dce504.js"
 );
 
 self.addEventListener('message', (event) => {
